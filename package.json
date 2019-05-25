@@ -1,0 +1,21 @@
+{
+  "name": "spellbook",
+  "version": "2.0.0",
+  "main": "readme.md",
+  "license": "MIT",
+  "scripts": {
+    "test": "eslint --ext md . && markdownlint --ignore=node_modules ."
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn test"
+    }
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-google": "^0.13.0",
+    "eslint-plugin-markdown": "^1.0.0",
+    "husky": "^2.3.0",
+    "markdownlint-cli": "^0.16.0"
+  }
+}
