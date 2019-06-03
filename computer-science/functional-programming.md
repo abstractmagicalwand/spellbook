@@ -1,0 +1,57 @@
+# Functional programming
+
+## Memoization
+
+In computing, memoization or memoisation is an optimization technique used primarily to speed up
+computer programs by storing the results of expensive function calls and returning the cached result
+when the same inputs occur again.
+
+```js
+const memoize = (f) => {
+  const map = new Map();
+
+  return (argument) => {
+    if (map.has(argument)) {
+      return map.get(argument);
+    }
+
+    const result = f(argument);
+
+    map.set(argument, result);
+
+    return result;
+  };
+};
+```
+
+## Referential transparency
+
+```js
+function half(n) {
+  return n / 2;
+}
+```
+
+Output (return) must be the same for the same input (arguments). For example, we could replace
+`half(8)` with `4` wherever used in our code with no change to the final outcome. This is called
+**referential transparency**.
+
+Referential transparency also enables **memoization**.
+
+## Side Effects
+
+When a function or expression modifies state outside its own context, the result is a **side effect**.
+Examples of side effects include making a call to an API, manipulating the DOM, raising an alert
+dialog, writing to a database, etc.
+
+Functions that cause side effects are less predictable and harder to test since they result in changes
+outside their local scope.
+
+## Pure function
+
+1. Its evaluation must have no side effects.
+2. It must have referential transparency.
+
+## Details
+
+- [Glossary of Modern JavaScript Concepts: Part 1](https://medium.com/devschacht/glossary-of-modern-javascript-concepts-1198b24e8f56)
