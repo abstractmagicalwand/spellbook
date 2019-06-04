@@ -5,6 +5,10 @@ A stream is an abstract interface for working with streaming data in Node.js.
 They were introduced in the Unix operating system decades ago, and programs can interact with each
 other passing streams through the pipe operator `|`.
 
+```sh
+cat path/to/file | grep search_string
+```
+
 For example, in the traditional way, when you tell the program to read a file, the file is read into
 memory, from start to finish, and then you process it.
 
@@ -12,24 +16,19 @@ Using streams you read it piece by piece, processing its content without keeping
 
 For instance:
 
-1. Internet.
-2. pipe operator in unix
-3. HTTP server
-4. `process.stdout`.
-5. `fs`
-etc.
+1. The Internet.
+2. Pipe operator in unix.
+3. `process.stdout`, `process.stdin`
+4. `fs.ReadStream`, `fs.WriteStream`, `http.IncomingMessage`, `http.ServerResponse`
+5. etc.
 
 ## Types of Streams
 
-1. **Writable** - streams to which data can be written (for example, fs.createWriteStream()).
-2. **Readable** - streams from which data can be read (for example, fs.createReadStream()).
-3. **Duplex** - streams that are both Readable and Writable (for example, net.Socket). net.Socket
-instances are Duplex streams whose Readable side allows consumption of data received from the socket
-and whose Writable side allows writing data to the socket. Because data may be written to the socket
-at a faster or slower rate than data is received, it is important for each side to operate (and
-buffer) independently of the other.
+1. **Writable** - streams to which data can be written (for example, `fs.createWriteStream()`).
+2. **Readable** - streams from which data can be read (for example, `fs.createReadStream()`).
+3. **Duplex** - streams that are both Readable and Writable (for example, `net.Socket`).
 4. **Transform** - Duplex streams that can modify or transform the data as it is written and read
-  (for example, zlib.createDeflate()).
+  (for example, `zlib.createDeflate()`).
 
 ## Get chunk from readable stream
 
@@ -144,6 +143,13 @@ stream.pipe(res);
 
 `finish` for Writable stream. `end` for Readable stream. They have different name because Duplex
 stream are Readable and Writable.
+
+## Duplex
+
+net.Socket instances are Duplex streams whose Readable side allows consumption of data received from
+the socket and whose Writable side allows writing data to the socket. Because data may be written to
+the socket at a faster or slower rate than data is received, it is important for each side to
+operate (and buffer) independently of the other.
 
 ## API for Stream Implementers
 

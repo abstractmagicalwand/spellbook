@@ -6,23 +6,7 @@ In computing, memoization or memoisation is an optimization technique used prima
 computer programs by storing the results of expensive function calls and returning the cached result
 when the same inputs occur again.
 
-```js
-const memoize = (f) => {
-  const map = new Map();
-
-  return (argument) => {
-    if (map.has(argument)) {
-      return map.get(argument);
-    }
-
-    const result = f(argument);
-
-    map.set(argument, result);
-
-    return result;
-  };
-};
-```
+[Caching](../recipes/caching.md)
 
 ## Referential transparency
 
