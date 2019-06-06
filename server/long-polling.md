@@ -2,7 +2,7 @@
 
 1. A client requests a webpage from a server using regular HTTP.
 2. The client receives the requested webpage and executes the JavaScript on the page which requests
-a file from the server.
+a information from the server.
 3. The server does not immediately respond with the requested information but waits until there's
 new information available.
 4. When there's new information available, the server responds with the new information.
