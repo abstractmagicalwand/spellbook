@@ -73,3 +73,10 @@ router.post('/publish', async (ctx, next) => {
   ctx.body = 'ok';
 });
 ```
+
+## Details
+
+- [What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
+- [Comet](https://en.wikipedia.org/wiki/Comet_(programming))
+- [Pull technology](https://en.wikipedia.org/wiki/Pull_technology)
+- [Push technology](https://en.wikipedia.org/wiki/Push_technology)
