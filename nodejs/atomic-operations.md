@@ -6,7 +6,7 @@ of any other processes.
 ## Problem
 
 We cannot warrant what file will exist when it is started reading. It might be removed, because
-we cannot adjust tasks queque.
+we cannot adjust queque.
 
 ```js
 server.on('request', (req, res) => {
