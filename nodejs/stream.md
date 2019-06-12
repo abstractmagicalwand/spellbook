@@ -166,3 +166,5 @@ the end of the Readable stream.
 ## Details
 
 - [Nodejs Docs - Stream](https://nodejs.org/dist/latest/docs/api/stream.html)
+- [Node.js streams cheatsheet](https://devhints.io/nodejs-stream)
+- [Streams handbook](https://github.com/substack/stream-handbook)

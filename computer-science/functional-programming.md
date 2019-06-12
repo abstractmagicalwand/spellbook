@@ -38,4 +38,4 @@ outside their local scope.
 
 ## Details
 
-- [Glossary of Modern JavaScript Concepts: Part 1](https://medium.com/devschacht/glossary-of-modern-javascript-concepts-1198b24e8f56)
+- [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
