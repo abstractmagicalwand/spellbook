@@ -12,7 +12,7 @@ tar xzf file.tar.gz
 tar xjf file.tar.bz2
 ```
 
-## Uncompressed tar file `.tar`
+## Uncompressed tar file `.tar` or `.tar.xz`
 
 ```sh
 tar xf file.tar
