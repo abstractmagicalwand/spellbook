@@ -27,3 +27,9 @@ git reset --hard
 ```sh
 git config --global core.excludesfile ~/.gitignore_global
 ```
+
+## Add some lines from unstaged file
+
+```sh
+git add -i
+```
