@@ -39,3 +39,4 @@ outside their local scope.
 ## Details
 
 - [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
+- [If immutable objects are good, why do people keep creating mutable objects?](https://softwareengineering.stackexchange.com/a/151735)

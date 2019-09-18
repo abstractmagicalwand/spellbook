@@ -1,5 +1,7 @@
 # Bash
 
+[A guide to learn bash](https://github.com/Idnan/bash-guide)
+
 ## Show running processes
 
 ```sh
@@ -30,3 +32,15 @@ running `chmod a+x script.py`.
 ```sh
 sed -i 's/Link Extractor/Super Link Extractor/g' www/index.php
 ```
+
+## How to copy the content of a folder to another existing folder
+
+```sh
+cp -a /public/. /dist/
+```
+
+The `-a` option is an improved recursive option, that preserve all file attributes, and also preserve
+symlinks.
+
+The `.` at end of the source path is a specific `cp` syntax that allow to copy all files and folders,
+included hidden ones.

@@ -106,6 +106,12 @@ docker container rm linux_tweet_app
 docker rm $(docker ps -a -q) # remove all containers
 ```
 
+## Remove image
+
+```sh
+docker rmi image_id # or repository:tag
+```
+
 ## How to automatically start containers after rebooting system
 
 [Start containers automatically](https://docs.docker.com/config/containers/start-containers-automatically/)
