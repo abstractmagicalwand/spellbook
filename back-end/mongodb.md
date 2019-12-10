@@ -53,7 +53,7 @@ Use update operator `$unset`:
 ```js
 User.findOneAndUpdate(
     {verificationToken: ctx.request.body.verificationToken},
-    {$unset: {verificationToken: ctx.request.body.verificationToken}}
+    {$unset: {verificationToken: ctx.request.body.verificationToken}},
 );
 ```
 

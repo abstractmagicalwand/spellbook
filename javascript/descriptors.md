@@ -9,18 +9,18 @@ Descriptor example:
   "value": "John",
   "writable": true,
   "enumerable": true,
-  "configurable": true
+  "configurable": true,
 }
 ```
 
 ## Get descriptor
 
 ```js
-let user = {
-  name: "John"
+const user = {
+  name: 'John',
 };
 
-let descriptor = Object.getOwnPropertyDescriptor(user, 'name');
+const descriptor = Object.getOwnPropertyDescriptor(user, 'name');
 ```
 
 If we have lots of properties:
@@ -32,13 +32,13 @@ Object.getOwnPropertyDescriptor(user); // {name: descriptor}
 ## Set descriptor
 
 ```js
-let user = {};
+const user = {};
 
-Object.defineProperty(user, "name", {
-  value: "John"
+Object.defineProperty(user, 'name', {
+  value: 'John',
 });
 
-let descriptor = Object.getOwnPropertyDescriptor(user, 'name');
+const descriptor = Object.getOwnPropertyDescriptor(user, 'name');
 
 /*
 {
@@ -54,8 +54,12 @@ If we have lots of properties:
 
 ```js
 Object.defineProperties(user, {
-  name: { value: "John", writable: false },
-  surname: { value: "Smith", writable: false },
+  name: {
+    value: 'John', writable: false,
+  },
+  surname: {
+    value: 'Smith', writable: false,
+  },
   // ...
 });
 ```
@@ -65,15 +69,15 @@ Object.defineProperties(user, {
 We can make read-only property.
 
 ```js
-let user = {
-  name: "John"
+const user = {
+  name: 'John',
 };
 
-Object.defineProperty(user, "name", {
-  writable: false
+Object.defineProperty(user, 'name', {
+  writable: false,
 });
 
-user.name = "Pete";
+user.name = 'Pete';
 ```
 
 > In the non-strict mode, no errors occur when writing to read-only properties and such. But the
@@ -82,18 +86,18 @@ operation still won’t succeed. Flag-violating actions are just silently ignore
 ## Enumerable
 
 ```js
-let user = {
-  name: "John",
+const user = {
+  name: 'John',
   toString() {
     return this.name;
-  }
+  },
 };
 
-Object.defineProperty(user, "toString", {
-  enumerable: false
+Object.defineProperty(user, 'toString', {
+  enumerable: false,
 });
 
-for (let key in user) {
+for (let key in user) { // eslint-disable-line
   console.log(key); // only name
 }
 ```
@@ -101,12 +105,12 @@ for (let key in user) {
 ## Configurable
 
 ```js
-let user = { };
+const user = { };
 
-Object.defineProperty(user, "name", {
-  value: "John",
+Object.defineProperty(user, 'name', {
+  value: 'John',
   writable: false,
-  configurable: false
+  configurable: false,
 });
 
 // won't be able to change user.name or its flags
@@ -114,7 +118,7 @@ Object.defineProperty(user, "name", {
 //   user.name = "Pete"
 //   delete user.name
 //   defineProperty(user, "name", ...)
-Object.defineProperty(user, "name", {writable: true});
+Object.defineProperty(user, 'name', {writable: true});
 // Uncaught TypeError: Cannot redefine property: name
 ```
 

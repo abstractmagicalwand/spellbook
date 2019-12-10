@@ -60,7 +60,7 @@ to handle it in case of an error or we can make errors show up as members in the
 ```js
 // Fault-tolerant Promise.all
 Promise.all(
-    urls.map((url) => fetch(url).catch((error) => error))
+    urls.map((url) => fetch(url).catch((error) => error)),
 );
 ```
 

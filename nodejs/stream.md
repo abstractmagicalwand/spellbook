@@ -89,7 +89,7 @@ stream.pipeline(
       } else {
         console.log('done');
       }
-    }
+    },
 );
 ```
 

@@ -4,12 +4,12 @@
 
 ```js
 console.log(
-  wrapper
-    .find('div')
-    .children()
-    .last()
-    .children()
-    .first()
-    .debug()
+    wrapper
+        .find('div')
+        .children()
+        .last()
+        .children()
+        .first()
+        .debug(),
 );
 ```
