@@ -1,5 +1,8 @@
 # SSH
 
+- [Connecting to GitHub with SSHw](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+- [How to set up ssh so you aren't asked for a password](https://www.debian.org/devel/passwordlessssh)
+
 ## Multiple SSH Keys settings for different + account
 
 `~/.ssh/config`

@@ -205,6 +205,12 @@ Anyone with access can pull that image and run a container from it. The behavior
 container will be the same for everyone, because the image contains the fully-configured app - the
 only requirements to run it are Linux and Docker.
 
+## Clean unused docker images
+
+```sh
+docker system prune
+```
+
 ## Details
 
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
