@@ -15,6 +15,8 @@ free
 
 ## Arch
 
+- [Clean the filesystem](https://wiki.archlinux.org/index.php/System_maintenance#Clean_the_filesystem)
+
 ```sh
 sudo pacman -Sc
 ```
