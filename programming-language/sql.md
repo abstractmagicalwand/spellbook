@@ -1,6 +1,6 @@
 # SQL
 
-- https://t.me/ctodaily/908
+- [От канала Запуск Завтра](https://t.me/ctodaily/908)
 - [Part II. The SQL Language](https://www.postgresql.org/docs/current/sql.html)
 
 ## Interactive books

@@ -21,8 +21,9 @@ free
 sudo pacman -Sc
 ```
 
-### Ubuntu and Debian
+## Ubuntu and Debian
 
+- [How to Move Your Home Folder to Another Partition](https://www.maketecheasier.com/move-home-folder-ubuntu/)
 - [How do I free up disk space?](https://askubuntu.com/questions/5980/how-do-i-free-up-disk-space)
   - [Comment](https://askubuntu.com/a/6002)
 
