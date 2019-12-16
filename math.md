@@ -1,5 +1,7 @@
 ﻿# Math
 
+- [How to Read Mathematics by Shai Simonson and Fernando Gouvea](http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
+
 - [Jim Hefferon. LINEAR ALGEBRA. Third edition](http://joshua.smcvt.edu/linearalgebra/book.pdf)
 - [Real Numbers](https://www.mathsisfun.com/numbers/real-numbers.html)
 - [Math is fun](https://www.mathsisfun.com/)
