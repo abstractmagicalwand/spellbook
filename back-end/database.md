@@ -20,3 +20,7 @@ without ever becoming visible.
 It is a situation that exists between two relational database tables when one table has a foreign key
 that references the primary key of the other table. Relationships allow relational databases to split
 and store data in different tables, while linking disparate data items.
+
+## Other
+
+- [Google Sheets for Developers](https://youtu.be/77toMO9-kQc)
