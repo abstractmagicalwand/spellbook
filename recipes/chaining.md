@@ -35,3 +35,7 @@ rabbit
 // Rabbit has stopped
 // Rabbit is walking
 ```
+
+## Examples
+
+- [Check if a number is equal to 13](https://github.com/jezen/is-thirteen)
