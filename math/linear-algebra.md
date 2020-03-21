@@ -1,4 +1,4 @@
-## Linear algebra
+# Linear algebra
 
 - [Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares](https://news.ycombinator.com/item?id=18678314)
 - [Relearning Matrices as Linear Functions](https://www.dhruvonmath.com/2018/12/31/matrices/)
@@ -26,6 +26,7 @@
 - [Jim Hefferon. LINEAR ALGEBRA](http://joshua.smcvt.edu/linearalgebra/book.pdf)
 
 ## It seems hard
+
 - [Georgi Shilov. Linear Algebra](https://cosmathclub.files.wordpress.com/2014/10/georgi-shilov-linear-algebra4.pdf)
 - [A Brief Guide to A Few Algebraic Structures](https://argumatronic.com/posts/2019-06-21-algebra-cheatsheet.html)
 - [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book/)
