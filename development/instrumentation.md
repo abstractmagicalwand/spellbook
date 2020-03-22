@@ -6,6 +6,6 @@
 
 ## Examples
 
-- [FromJS](http://www.fromjs.com/)
+- [FromJS - An experimental data-flow analysis tool for JavaScript](http://www.fromjs.com/)
 - [Loupe](http://latentflip.com/loupe)
 - [React hot loader](https://github.com/gaearon/react-hot-loader)
