@@ -6,3 +6,7 @@
 ## How to fix ENOSPC error
 
 - [Increasing the amount of inotify watchers](https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers#the-technical-details)
+
+## Libraries
+
+- [http-errors. Create HTTP errors for Express, Koa, Connect, etc. with ease](https://github.com/jshttp/http-errors)
