@@ -37,6 +37,6 @@ function loadCached(url) {
 }
 ```
 
-## Example
+## Examples
 
 - [memoize](https://github.com/lodash/lodash/blob/master/memoize.js)
