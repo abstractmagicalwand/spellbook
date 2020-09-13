@@ -9,3 +9,4 @@
   - [The unseen performance costs of modern CSS-in-JS libraries in React apps](https://calendar.perfplanet.com/2019/the-unseen-performance-costs-of-css-in-js-in-react-apps/)
 - [Trace frame rate lag with a sexy performance radar](https://github.com/mobz/lag-radar)
 - [A Bit of Performance](https://www.kizu.ru/a-bit-of-performance/)
+- [Understanding Web Performance Monitoring](https://blog.bitsrc.io/understanding-web-performance-monitoring-2ed52f97a974)
