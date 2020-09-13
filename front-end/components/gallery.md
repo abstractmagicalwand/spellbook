@@ -1,6 +1,7 @@
 # Gallery
 
 - [Building a CSS-only image gallery (with fallbacks)](https://www.chenhuijing.com/blog/building-a-css-only-image-gallery/)
+- [Building an Images Gallery using PixiJS and WebGL](https://css-tricks.com/building-an-images-gallery-using-pixijs-and-webgl/)
 
 ## React
 
