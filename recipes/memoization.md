@@ -1,4 +1,10 @@
-# Caching
+# Memoization
+
+In computing, memoization or memoisation is an optimization technique used primarily to speed up
+computer programs by storing the results of expensive function calls and returning the cached result
+when the same inputs occur again.
+
+- [How I wrote the world's fastest JavaScript memoization library](https://community.risingstack.com/the-worlds-fastest-javascript-memoization-library/)
 
 ```js
 const memoize = (f) => {
