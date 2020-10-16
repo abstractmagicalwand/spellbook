@@ -24,4 +24,5 @@
 
 - [Nodemon](https://github.com/remy/nodemon)
 - [Postman](https://www.getpostman.com/)
+- [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
 - [Altair GraphQL Client](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja)

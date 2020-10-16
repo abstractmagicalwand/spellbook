@@ -10,3 +10,8 @@
 - [Trace frame rate lag with a sexy performance radar](https://github.com/mobz/lag-radar)
 - [A Bit of Performance](https://www.kizu.ru/a-bit-of-performance/)
 - [Understanding Web Performance Monitoring](https://blog.bitsrc.io/understanding-web-performance-monitoring-2ed52f97a974)
+- [Tune Your Performance](https://www.tunetheweb.com/performance/)
+
+## Memory leak
+
+- [Find and fix tricky memory leaks caused by detached windows](https://web.dev/detached-window-memory-leaks/)
