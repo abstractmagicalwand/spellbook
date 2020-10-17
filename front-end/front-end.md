@@ -8,4 +8,6 @@
 - [Front-end Job Interview Questions](https://github.com/yangshun/front-end-interview-handbook)
 - [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
 - [Cheatsheets](https://devhints.io/)
+
 - [The tangled webs we weave](https://daverupert.com/2020/09/tangled-webs/)
+- [The main thread is overworked & underpaid](https://youtu.be/7Rrv9qFMWNM)
