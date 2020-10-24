@@ -6,3 +6,5 @@
 - [React is becoming a black box](https://jaredpalmer.com/blog/react-is-becoming-a-black-box)
 - [The mechanics of DOM updates in Angular](https://indepth.dev/the-mechanics-of-dom-updates-in-angular/)
 - [Your Single-Page App Is Now A Polyfill](https://itnext.io/your-single-page-app-is-now-a-polyfill-7881fb01694e)
+- [What Vue.js Does Better Than React](https://hswolff.com/blog/what-vuejs-does-better-than-react/)
+- [Rich Harris: Futuristic Web Development](https://youtu.be/qSfdtmcZ4d0)

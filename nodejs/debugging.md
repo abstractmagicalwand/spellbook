@@ -1,6 +1,7 @@
 # Debugging
 
 - [Debugging Guide](https://nodejs.org/en/docs/guides/debugging-getting-started/)
+- [The --heapsnapshot-near-heap-limit Flag Coming to Node](https://twitter.com/JoyeeCheung/status/1319002537563885568)
 
 ## Chrome DevTools
 

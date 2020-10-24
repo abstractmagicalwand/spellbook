@@ -1,5 +1,9 @@
 # Libraries
 
+- [The best of JavaScript, HTML and CSS](https://bestofjs.org/)
+- [A collection of awesome browser-side JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
+- [73 Awesome NPM Packages for Productivity](https://dev.to/madza/73-awesome-npm-packages-for-productivity-19p8)
+
 - [Moveable is Draggable, Resizable, Scalable, Rotatable, Warpable](https://github.com/daybrush/moveable)
 - [Async middleware for JavaScript and TypeScript](https://github.com/feathersjs/hooks)
 

@@ -7,3 +7,7 @@
 - [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
 
 - [Simple Made Easy 2012 - Rich Hickey](https://youtu.be/oytL881p-nQ)
+
+## Open source
+
+- [Hot to make a contribution to an Open-Source Project](https://twitter.com/SimonHoiberg/status/1314230637763719169)
