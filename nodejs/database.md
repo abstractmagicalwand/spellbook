@@ -7,3 +7,8 @@
 ## Clients and ORMs
 
 - [Slonik. A battle-tested PostgreSQL client with strict types, detailed logging and assertions](https://github.com/gajus/slonik)
+- [Mammoth. A type-safe Postgres query builder pur sang for TypeScript](https://github.com/Ff00ff/mammoth)
+
+## PostgreSQL
+
+- [psql command line tutorial and cheat sheet](https://tomcam.github.io/postgres/)

@@ -5,6 +5,7 @@
 - [Асинхронное программирование (полный курс)](https://habr.com/ru/post/452974/)
 - [Faster async functions and promises](https://v8.dev/blog/fast-async)
 
+```js
 (function() {
   let promise = Promise.reject(new Error("Promise Failed!"));
   setTimeout(() => promise.catch(err => alert('caught')));
@@ -12,3 +13,4 @@
   // Error: Promise Failed!
   window.addEventListener('unhandledrejection', event => alert(event.reason));
 })()
+```

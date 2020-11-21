@@ -10,6 +10,7 @@
 ## Utils
 
 - [defu. Recursively assign default properties](https://github.com/jsless/defu)
+- [Detoxed dependency injection (DI) container for JavaScript](https://github.com/mnasyrov/ditox)
 
 ## Graphics
 

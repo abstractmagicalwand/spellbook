@@ -11,6 +11,12 @@
 - [A Bit of Performance](https://www.kizu.ru/a-bit-of-performance/)
 - [Understanding Web Performance Monitoring](https://blog.bitsrc.io/understanding-web-performance-monitoring-2ed52f97a974)
 - [Tune Your Performance](https://www.tunetheweb.com/performance/)
+- [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+- [Introducing Web Vitals: essential metrics for a healthy site](https://web.dev/vitals/)
+- [Your first performance budget](https://web.dev/your-first-performance-budget/#budget-for-quantity-based-metrics)
+- [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
+- [Optimize your JavaScript](https://web.dev/fast/#optimize-your-javascript)
+- [Optimizing CSS for faster page loads](https://pustelto.com/blog/optimizing-css-for-faster-page-loads/)
 
 ## Memory leak
 

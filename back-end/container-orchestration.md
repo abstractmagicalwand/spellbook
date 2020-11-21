@@ -8,6 +8,7 @@ traditionally been focused on **development** and **testing** workflows.
 - [Docker Compose](https://docs.docker.com/compose/)
 - [Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/)
 - [This repository illustrates step by step approach to learn Docker](https://github.com/ibnesayeed/linkextractor)
+- [Use a Docker container as a development environment with Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/use-docker-container-dev-env-vs-code/)
 
 `docker-compose.yml`:
 

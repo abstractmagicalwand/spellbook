@@ -1,3 +1,7 @@
+# Game Design
+
+- [Game Design Resources](https://docs.google.com/spreadsheets/d/1QhFyPfYSjHv7PjibGrslF3mNW_CIDXWv9o-iQgLbu1o/)
+
 # Design document
 
 - [CDDA Design Document](https://cataclysmdda.org/design-doc/)

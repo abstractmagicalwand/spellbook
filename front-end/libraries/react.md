@@ -3,6 +3,7 @@
 - [Minimal React: getting started with the frontend library](https://2ality.com/2020/08/minimal-react.html)
 - [Build your own React](https://pomb.us/build-your-own-react/)
 - [The React Cheatsheet for 2020](https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg)
+- [Anima 4.0: Go Straight From Design to React in the Design Handoff](https://css-tricks.com/anima-4-0-go-straight-from-design-to-react-in-the-design-handoff/)
 
 ## Hooks
 

@@ -12,7 +12,7 @@
 ## Configuration
 
 - [Smart Bundling: How To Serve Legacy Code Only To Legacy Browsers](https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/)
-- [Hereâ€™s a comÂ­plete real-world proÂ­ducÂ­tion examÂ­ple of a sophisÂ­tiÂ­catÂ­ed webÂ­pack 4 config](https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development)
+- [Here’s a com­plete real-world pro­duc­tion exam­ple of a sophis­ti­cat­ed web­pack 4 config](https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development)
 
 ## Hot reload
 

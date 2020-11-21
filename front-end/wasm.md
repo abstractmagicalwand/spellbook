@@ -9,3 +9,5 @@ enabling deployment on the web for client and server applications.
 - [Материалы к докладам по WebAssembly](https://github.com/HellSquirrel/wasm-talks)
 - [A Complete Introduction to WebAssembly and Its JavaScript API](https://blog.bitsrc.io/a-complete-introduction-to-webassembly-and-its-javascript-api-3474a9845206)
 - [GIT for nodejs and the browser using libgit2 compiled to WebAssembly with Emscripten](https://github.com/petersalomonsen/wasm-git)
+- [WebAssembly Threads - HTTP 203](https://youtu.be/x9RP-M6q2Mg)
+- [Going from JavaScript to WebAssembly in three steps](https://engineering.q42.nl/webassembly/)
