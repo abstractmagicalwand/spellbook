@@ -10,4 +10,3 @@
 
 - [Using Multiple SSH Public Keys](https://superuser.com/questions/272465/using-multiple-ssh-public-keys/272613#272613)
 - [How to manage multiple GitHub accounts on a single machine with SSH keys](https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/)
-https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows
