@@ -1,4 +1,15 @@
 # Typescript
 
+- [Doc](https://www.typescriptlang.org/docs/handbook/intro.html)
 - [2ality](https://2ality.com/archive.html#tags=typescript)
 - [Bloomberg. 10 Insights from Adopting TypeScript at Scale](https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/)
+- [The Seven Sources of Unsoundness in TypeScript](https://effectivetypescript.com/2021/05/06/unsoundness/)
+- [Starting a TypeScript Project in 2021](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/)
+- [Build JavaScript applications using TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/)
+- [The TypeScript Tax](https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b)
+- [Dynamic Static Typing In TypeScript](https://www.smashingmagazine.com/2021/01/dynamic-static-typing-typescript/)
+- [The Road to TypeScript at Quip, Part One](https://quip.com/blog/the-road-to-typescript-at-quip-part-one)
+- [The Road to TypeScript at Quip, Part Two](https://quip.com/blog/the-road-to-typescript-at-quip-part-two)
+- [ts-migrate: A Tool for Migrating to TypeScript at Scale](https://medium.com/airbnb-engineering/ts-migrate-a-tool-for-migrating-to-typescript-at-scale-cd23bfeb5cc)
+- [Как перенести на TypeScript большую кодовую базу React UI-компонентов](https://habr.com/ru/company/badoo/blog/518246/)
+- [Collection of TypeScript type challenges](https://github.com/type-challenges/type-challenges)
